@@ -39,6 +39,4 @@ memory {
   format="RAM: %used/%total"
 }
 
-order += "wireless wlan0"
-
 order += "time" 
