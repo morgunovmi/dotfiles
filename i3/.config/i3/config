@@ -215,3 +215,5 @@ bindsym $mod+shift+x exec i3lock -i /home/max/Desktop/ls.png
 hide_edge_borders smart
 
 exec --no-startup-id feh --no-fehbg --bg-fill '/home/max/Desktop/wp.jpeg'
+
+exec --no-startup-id /usr/libexec/gsd-xsettings
